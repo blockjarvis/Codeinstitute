@@ -1,12 +1,98 @@
-
-
-
-h1 {
-    text-align: center;
-}
-
 /* Calendar align */
+
 #calendar {
     text-align: center;
 }
 
+#logoheader{
+    text-align: center;
+}
+
+#upcomingprojects{
+    text-align: center;
+}
+/* bg body */
+
+body {
+    background-image: url("testbg3.png");
+    background-color: #cccccc;
+   }
+
+/* bg newsletter*/
+#newsletter {
+    display: flex;
+    background-image: url(newsletter.png);
+    background-color: #cccccc;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-between;
+    padding-left: 150px;
+    justify-content: space-evenly;
+   }
+
+
+/* bg footer*/
+footer {
+    background-color: #262626;
+   }
+
+
+/* h1 style */
+
+h1 {
+    text-align: center;
+    color:white; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+
+}
+
+/* h2 style */
+
+h2 {
+    text-align:left;
+    color:white; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size:30px ;
+
+}
+
+/* p style */
+
+p {
+    text-align: center;
+    color:white; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    }
+
+/* p style */
+
+.button {
+        background-color: #47C0FE;
+        border: none;
+        color: white;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      
+      
+      .button4 {border-radius: 7px;}
+      
+      .button4:hover {
+        background-color: #555555;
+        color: white;
+      }
+
+/* p style */
+
+#formnewsletter {
+    text-align: right;
+}
