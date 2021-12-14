@@ -142,3 +142,15 @@ p {
     flex-direction: column;
     align-items: center;
 }
+
+/* form */
+
+.form {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+    width: 320px;
+  }
+
