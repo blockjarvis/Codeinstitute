@@ -1,0 +1,25 @@
+        <div class="form">
+            <div class="user-details">
+                <form class="forminput" id="form1" action="https://formdump.codeinstitute.net/" method="get">
+                    <h2>SUPPORT US!</h2>
+                    <p>Make a donation and have access to our premium telegram</p>
+                    <span class="details">TELEGRAM USERNAME</span>
+                    <input type="text" name="TELEGRAM USERNAME" placeholder="Username" required>
+                    <span class="details">E-MAIL</span>
+                    <input type="email" name="email" placeholder="Enter your e-mail" required>
+                    <span class="details">TRANSACTION HASH</span>
+                    <input type="text" name="TRANSACTION HASH" placeholder="transaction hash" required>
+                    <div class="gender">
+                        <span class="details">NETWORK</span>
+                        <br>
+                        <input type="radio" id="bsc" name="NETWORK" value="bsc">
+                        <label for="bsc"><span>BINANCE (BSC)</span></label>
+                        <input type="radio" id="litecoin" name="NETWORK" value="litecoin">
+                        <label for="litecoin"><span>LITECOIN (LTC)</span></label>
+                        <input type="radio" id="matic" name="NETWORK" value="matic">
+                        <label for="matic"><span>MATIC POLYGON (MATIC)</span></label>
+                    </div>
+                    <button type="submit" form="form1" class="btn btn-warning" value="Submit">Submit</button>
+                </form>
+            </div>
+        </div>

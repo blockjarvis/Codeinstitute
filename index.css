@@ -145,12 +145,35 @@ p {
 
 /* form */
 
-.form {
-    background-color: #15172b;
+.formstyle {
+    background-color: #272727;
     border-radius: 20px;
     box-sizing: border-box;
-    height: 500px;
+    height: 550px;
     padding: 20px;
     width: 320px;
   }
+  
+  .input {
+    background-color: #323232;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 15px;
+    height: 100%;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+  }
+  
+  .formtext{
+    text-align: left;
+    color:white; 
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  }
+  
+  
 
