@@ -24,16 +24,14 @@ body {
     background-image: url(newsletter.png);
     background-color: #cccccc;
     align-items: center;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-content: space-between;
-    padding-left: 150px;
-    justify-content: space-evenly;
+    padding-left: 250px;
+    justify-content: space-around;
    }
 
 
 /* bg footer*/
 footer {
+    
     background-color: #262626;
    }
 
@@ -68,9 +66,9 @@ p {
     font-weight: 400;
     }
 
-/* p style */
+/* submit button */
 
-.button {
+.button1 {
         background-color: #47C0FE;
         border: none;
         color: white;
@@ -81,18 +79,65 @@ p {
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
-      }
+    }
       
       
-      .button4 {border-radius: 7px;}
+      .button1 {border-radius: 7px;}
       
-      .button4:hover {
+      .button1:hover {
         background-color: #555555;
         color: white;
-      }
+    }
 
-/* p style */
+/* social media buttons */
 
-#formnewsletter {
-    text-align: right;
+.buttonsm {
+    background-color: #303030;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+  .buttonsm {border-radius: 7px;}
+  
+  .buttonsm:hover {
+    background-color: #47C0FE;
+    color: white;
+}
+
+/* social media footer */
+
+
+#socialmedia{
+    display: flex;
+    padding-right: 50px;
+    padding-left: 50px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* disclaimer footer */
+
+#disclaimer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+
+/* footer bot */
+
+#footerbot{
+    display: flex;
+    padding-top: 15px;
+    flex-direction: column;
+    align-items: center;
 }
