@@ -75,6 +75,16 @@ p {
     font-weight: 400;
     }
 
+/* withelist names */
+
+.namegame{
+    text-align:center;
+    color:white; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size:15px ;
+}
+
 /* submit button */
 
 .button1 {
@@ -86,8 +96,11 @@ p {
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
         margin: 4px 2px;
         cursor: pointer;
+        width: 150px;
     }
       
       
@@ -197,4 +210,9 @@ p {
 .pcenter{
     margin: auto;
     width: 50%;
+}
+
+.pcenter2{
+    margin: auto;
+    width: 35%;
 }
