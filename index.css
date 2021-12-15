@@ -32,6 +32,11 @@ footer {
     padding-left: 250px;
     justify-content: space-around;
    }
+#formnewsletter {
+    display: flex;
+    flex-direction: column;
+    
+}   
 /*-- ===== Social Media style ==== -- */
 #socialmedia{
     display: flex;
