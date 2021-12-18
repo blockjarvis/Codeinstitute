@@ -1,16 +1,9 @@
 /* Calendar align */
 
-#calendar {
+.align{
     text-align: center;
 }
 
-#logoheader{
-    text-align: center;
-}
-
-#upcomingprojects{
-    text-align: center;
-}
 /*-- ===== Body style ==== -- */
 
 body {
