@@ -1,4 +1,4 @@
-/* Calendar align */
+/*-- ===== align style ==== -- */
 
 .align{
     text-align: center;
@@ -93,6 +93,7 @@ p {
     color:white; 
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    font-size:19px ;
     }
 /*-- ===== Whitelist font style ==== -- */
 .namegame{
