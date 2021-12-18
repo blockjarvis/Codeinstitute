@@ -14,7 +14,7 @@
 /*-- ===== Body style ==== -- */
 
 body {
-    background-image: url("testbg3.png");
+    background-image: url("images/bodybackground.png");
     background-color: #cccccc;
    }
 /*-- ===== FOOTER STYLE ==== -- */
@@ -26,7 +26,7 @@ footer {
 /*-- ===== Newsletter style ==== -- */
 #newsletter {
     display: flex;
-    background-image: url(newsletter.png);
+    background-image: url(images/newsletterbackground.png);
     background-color: #cccccc;
     align-items: center;
     padding-left: 250px;
