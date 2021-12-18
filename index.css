@@ -199,3 +199,7 @@ p {
     margin: auto;
     width: 70%;
 }
+
+.navbar-nav{
+    list-style-type: none;
+}
