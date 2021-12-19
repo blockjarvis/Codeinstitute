@@ -14,7 +14,7 @@ The purpose is to design an attractive website to NFT investors, with a simple a
 
 ## User Stories
 ### First Time Visitor Goals
-1. As a first time visitor, I want to easily see the calendar,whitelists and dates I am looking for.
+1. As a first time visitor, I want to easily see the calendar, whitelists and dates I am looking for.
 2. As a first time visitor, I want to find information about new projects.
 3. As a first time visitor, I want to find out what is the best NFT project.
 
