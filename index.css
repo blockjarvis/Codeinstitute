@@ -190,6 +190,7 @@ p {
     padding-bottom: 30px;
     margin: auto;
     width: 50%;
+    justify-content: space-around;
 }
 
 .pcenter{

@@ -39,18 +39,18 @@ The purpose is to design an attractive website to NFT investors, with a simple a
 ### Wireframes
 
 #### index.html
-1. [Desktop index.html](wireframe/desktop.pdf)
+1. [Desktop index.html](wireframe/desktopindex.png)
 
-2. [Mobile index.html](wireframe/smartphone.pdf)
+2. [Mobile index.html](wireframe/mobileindex.png)
 
-3. [Tablet index.html](wireframe/tablet.pdf)
+3. [Tablet index.html](wireframe/tabletindex.png)
 
 #### premium.html
-1. [Desktop classes.html](wireframe/desktopclasses.pdf)
+1. [Desktop premium.html](wireframe/desktoppremium.png)
 
-2. [Tablet classes.html](wireframe/tabletclasses.pdf)
+2. [Tablet premium.html](wireframe/tabletpremium.png)
 
-3. [Mobile classes.html](wireframe/mobileclasses.pdf)
+3. [Mobile premium.html](wireframe/mobilepremium.png)
 
 ## Existing Features
 
